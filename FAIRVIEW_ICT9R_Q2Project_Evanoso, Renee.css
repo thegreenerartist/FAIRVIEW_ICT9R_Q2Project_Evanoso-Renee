@@ -1,0 +1,42 @@
+body {
+	margin: 5px;
+}
+h1 {
+	text-align: center;
+	letter-spacing:10px;
+	text-decoration: underline;
+}
+h2 {
+	text-align: center;
+}
+h3 {
+	text-align:center;
+}
+h5 {
+	text-transform: capitalize;
+	text-align: center;
+}
+video {
+	margin: auto 0px;
+	display: block;
+	height: 500px;
+	width: 500px;
+}
+table {
+	align-content: center;
+	text-align: center;
+	padding: 3px;
+	margin: 10px;
+	border: dotted 5px #ffa621;
+}
+.title {
+	text-shadow: 5px 5px #e0ca70;
+}
+.img {
+	width: 100px;
+	height: 130px;
+}
+.img2 {
+	width: 300px;
+	height: 100px;
+}
